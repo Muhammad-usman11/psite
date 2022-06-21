@@ -1,0 +1,45 @@
+.navtabs{
+    background-color: rgba(244,253,252,1);
+    height: 40px;
+    
+}
+.tabs ul li{
+    display: inline-block;
+    list-style: none;
+    font-family: poppins;
+    font-size: 12px;
+    line-height: 2em;
+    margin: 0 5px;
+    color: black;
+    text-transform: uppercase;
+    padding: 6px 20px;
+    
+}
+.phone ul li{
+    display: inline-block;
+    list-style: none;
+    color: black;
+    font-family: poppins;
+    margin: 0 5px;
+    font-size: 12px;
+    line-height: 2em;
+    
+}
+.phone ul li i{
+    color: #04aea8;
+    font-size: 18px;
+    margin: 0;
+    width: 22px;
+    height: 22px;
+    line-height: 22px;
+    padding-left: 15px;
+    
+}
+.navbar {
+    background-color: #e8faf9;
+    
+}
+.navbar ul li a{
+    color:black;
+    text-transform: uppercase;
+}
