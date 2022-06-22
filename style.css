@@ -3,16 +3,29 @@
     height: 40px;
     
 }
+.tabs ul li i{
+    color: #04aea8;
+    
+    margin-right: 2px;
+
+}
+.pushtabs{
+    margin-left: 65px;
+}
 .tabs ul li{
     display: inline-block;
     list-style: none;
     font-family: poppins;
     font-size: 12px;
     line-height: 2em;
-    margin: 0 5px;
+    
     color: black;
     text-transform: uppercase;
-    padding: 6px 20px;
+    padding: 4px 9px;
+    
+}
+.pushphone{
+    margin-left: 56px;
     
 }
 .phone ul li{
@@ -20,7 +33,7 @@
     list-style: none;
     color: black;
     font-family: poppins;
-    margin: 0 5px;
+    
     font-size: 12px;
     line-height: 2em;
     
@@ -32,14 +45,47 @@
     width: 22px;
     height: 22px;
     line-height: 22px;
-    padding-left: 15px;
-    
+    padding-left: 25px;
+    padding-top: 11px;
 }
 .navbar {
     background-color: #e8faf9;
-    
+    height: 50px;
+}
+.push{
+    margin-left: 171px;
 }
 .navbar ul li a{
+    
     color:black;
     text-transform: uppercase;
+    padding: 0px 32px;
+    line-height: inherit;
+    display: block;
+    font-family: poppins,Arial,sans-serif;
+    font-size: 14px;
+}
+.section-3{
+    
+    /* background-color: rgb(225, 225, 233); */
+}
+.round-image{
+    height: 60vh;
+    width: 40vw;
+    background-color: white;
+    position: absolute;
+    border-radius: 312px;
+}
+.sec3-logo img{
+    max-width: 100%;
+    position: absolute;
+    left: 120px;
+    top: 55px;
+    height: 33vh;
+
+}
+
+.sec3-pic img{
+    max-width: 100%;
+    max-height: 100%;
 }
