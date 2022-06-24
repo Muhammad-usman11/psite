@@ -153,12 +153,13 @@
     background-image: url("/images/sec4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: right;
     height: 140vh;
     
 }
 .sec4-content{
     margin-top: 175px;
-    
+    margin-left: 39px;
 }
 .sec4-content h1{
     color: #008c87 !important;
@@ -197,4 +198,131 @@
     color: #333;
     font-style: normal;
     text-transform: none;
+    font-size: 17px;
 }
+.sec5-image{
+    background-image: url("/images/sec5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+}
+.sec6-left h2{
+    margin-left: 90px;
+    margin-top: 45px;
+    font-size: 50px;
+    overflow: hidden;
+    color: #008c87 !important;
+    display: block;
+    text-shadow: 1px 1px 1px #222;
+    font-family: poppins,sans-serif;
+}
+.sec6-left em{
+    position: absolute;
+    top: 2274px;
+    margin-left: 95px;
+    font-size: 70px;
+    font-family: 'pacifico';
+    color: #f3cb18;
+    text-shadow: 1px 1px 1px #222;
+
+}
+.sec6-left p{
+    margin-left: 90px;
+    margin-top: 90px;
+    font-family: opensans,Arial,sans-serif;
+    font-size: 17px;
+    line-height: 1.5em;
+    color: #333;
+    font-style: normal;
+    text-align: left;
+    
+}
+.sec6-left p a{
+    text-decoration: none;
+}
+.sec6-left h3 {
+    margin-left: 90px;
+    margin-top: 30px;
+    display: inline-block;
+}
+.sec6-left h3 a{
+    font-family: Poppins;
+    color: #008c87 !important;
+    text-decoration: none;
+    font-size: 26px;
+    font-weight: bold;
+}
+.sec6-right{
+    background: #e8faf9;
+    height: 75vh;
+    position: relative;
+    top: -25px;
+    border-radius: 20px 0 0 20px;
+    left: 105px;
+    padding-left: 97px;
+    padding-top: 95px;
+}
+.sec6-right h1{
+    font-size: 50px;
+    color: #008c87 !important;
+    font-family: poppins,sans-serif;
+}
+.sec6-right p{
+    font-family: opensans,Arial,sans-serif;
+    color: #333;
+}
+.sec7-text h2{
+    font-size: 260px;
+    color: #cbeae9;
+    font-family: pacifico,sans-serif;
+    line-height: 120%;
+    padding-top: 10px;
+    padding-left: 80px;
+}
+.sec10-image{
+    background-image: url("/images/sec10new.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 96vh;
+}
+.sec10-text{
+    padding-top: 30px;
+    padding-left: 167px;
+    height: 75vh;
+    left: 490px;
+    bottom: 470px;
+    position: relative;
+    
+    border-radius: 50px;
+    background: rgba(255,255,255,.9);
+}
+.sec10-text h2{
+    font-size: 50px;
+    color: #008c87 !important;
+    font-family: poppins,sans-serif;
+    line-height: 120%;
+
+}
+.sec10-text p{
+    font-family: opensans,Arial,sans-serif;
+    color: #333;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
