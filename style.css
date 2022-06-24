@@ -65,10 +65,7 @@
     font-family: poppins,Arial,sans-serif;
     font-size: 14px;
 }
-.section-3{
-    
-    /* background-color: rgb(225, 225, 233); */
-}
+
 .round-image{
     height: 60vh;
     width: 40vw;
@@ -76,6 +73,7 @@
     position: absolute;
     border-radius: 312px;
 }
+
 .sec3-logo img{
     max-width: 100%;
     position: absolute;
@@ -84,8 +82,119 @@
     height: 33vh;
 
 }
-
+.meet-dent i{
+    margin-top: 355px;
+    margin-left: 277px;
+    font-size: 70px;
+    color: #04aea8;
+}
+.meet-dent p{
+    margin-left: 239px;
+    margin-top: 20px;
+    color: black;
+    /* font-family: Poppins; */
+    font-weight: 400 !important;
+    font-size: 33px;
+    line-height: 1.2em;
+  
+}
+.sec3-service i{
+    font-size: 70px;
+    color: #04aea8;
+    margin: -85px 0px 0px 520px;
+    position: absolute;
+}
+.sec3-service p{
+    margin: 95px 0px 0px 525px;
+    color: black;
+    /* font-family: Poppins; */
+    font-weight: 400 !important;
+    font-size: 33px;
+    line-height: 1.2em;
+    text-transform: uppercase;
+}
+.sec3-client i{
+    font-size: 70px;
+    color: #04aea8;
+    margin: -95px 0px 0px 765px;
+    position: absolute;
+}
+.sec3-client p{
+    position: absolute;
+    margin: -12px 0px 0px 770px;
+    color: black;
+    /* font-family: Poppins; */
+    font-weight: 400 !important;
+    font-size: 33px;
+    line-height: 1.2em;
+    text-transform: uppercase;
+}
+.sec3-contactus i{
+    font-size: 70px;
+    color: #04aea8;
+    margin: -65px 0px 0px 980px;
+    position: absolute;
+}
+.sec3-contactus p{
+    position: absolute;
+    margin: 20px 0px 0px 965px;
+    color: black;
+    /* font-family: Poppins; */
+    font-weight: 400 !important;
+    font-size: 33px;
+    line-height: 1.2em;
+    text-transform: uppercase;
+}
 .sec3-pic img{
     max-width: 100%;
     max-height: 100%;
+}
+.sec4-image{
+    background-image: url("/images/sec4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 140vh;
+    
+}
+.sec4-content{
+    margin-top: 175px;
+    
+}
+.sec4-content h1{
+    color: #008c87 !important;
+    display: block;
+    font-family: poppins,sans-serif;
+    line-height: 120%;
+    font-weight: bold;
+}
+.sec4-content h2{
+    font-size: 46px;
+    font-family: poppins,sans-serif;
+    line-height: 120%;
+    
+    color: #008c87;
+    font-style: normal;
+    
+    text-decoration: none;
+    text-transform: none;
+}
+.sec4-content h3{
+    text-shadow: 1px 1px 1px #222;
+    color: #f3cb18 !important;
+    font-family: pacifico,sans-serif;
+    line-height: 120%;
+    padding-top: 10px;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: none;
+}
+.sec4-content p{
+    margin-bottom: 13px;
+    font-family: opensans,Arial,sans-serif;
+    line-height: 1.5em;
+    color: #333;
+    font-style: normal;
+    text-transform: none;
 }
